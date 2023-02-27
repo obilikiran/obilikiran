@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Obili kiran kumar
 #### Python Developer
-![Python Developer](https://github.com/dilumdesilva/Hello-World)
 
 "Aspiring Python Developer | Bringing creativity and passion to problem-solving"
 
