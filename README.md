@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm obili kiran kumar</h1>
 <h3 align="center">"Aspiring Python Developer | Bringing creativity and passion to problem-solving"</h3>
 
-<p align="left"> <a href="https://twitter.com/obilikiran" target="blank"><img src="https://img.shields.io/twitter/follow/obilikiran?logo=twitter&style=for-the-badge" alt="obilikiran" /></a> </p>
-
 - 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/obilikiran?tab=projects](https://github.com/obilikiran?tab=projects)
@@ -13,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/obilikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="obilikiran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/obilikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obilikiran" height="30" width="40" /></a>
 </p>
 
